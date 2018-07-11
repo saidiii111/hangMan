@@ -1,0 +1,11 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import 'partials/fixed-footer.scss';
+body {
+  background-color: #145455;
+}
+
+div {
+  margin-left: 9em;
+  margin-top: 17em;
+  height: 22em;
+}
